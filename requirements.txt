@@ -1,0 +1,9 @@
+pandas
+polars
+duckdb
+matplotlib
+scikit-learn
+jupyterlab
+statsmodels
+seaborn
+lazypredict @ git+https://github.com/lucassiro/lazypredict@dev
